@@ -10,7 +10,7 @@ textfilter
         :target: https://travis-ci.org/bopo/textfilter
 
 .. image:: https://readthedocs.org/projects/textfilter/badge/?version=latest
-        :target: https://textfilter.readthedocs.io/zh_CN/latest/?badge=latest
+        :target: https://textfilter.readthedocs.io/
         :alt: Documentation Status
 
 
